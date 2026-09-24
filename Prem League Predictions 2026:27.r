@@ -1,3 +1,12 @@
+# Premier League 2026 Prediction Model
+# Author: Shai K
+# Description: This script predicts the 2026/27 Premier League Table using the previous 3 seasons data 
+# Note: the script does not take into account the newly promoted teams Hull and Coventry due to lack of comparable data
+
+
+
+
+
 install.packages("rlang")
 packageVersion("rlang")
 
